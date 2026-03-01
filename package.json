@@ -1,0 +1,13 @@
+{
+  "name": "instagram-webhook",
+  "version": "1.0.0",
+  "description": "Bridge between Instagram Direct and OpenClaw AI agent",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["instagram", "webhook", "openclaw", "ai", "chatbot"],
+  "author": "",
+  "license": "MIT"
+}

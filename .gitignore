@@ -1,0 +1,5 @@
+.env
+node_modules/
+history/
+user_rules.json
+*.log
