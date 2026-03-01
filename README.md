@@ -61,7 +61,7 @@ Or with systemd — see `instagram-webhook.service.example`.
 | `META_PAGE_ACCESS_TOKEN` | Instagram page access token |
 | `OPENCLAW_COMPLETIONS_URL` | OpenClaw completions endpoint (default: `http://127.0.0.1:18789/v1/chat/completions`) |
 | `OPENCLAW_TOKEN` | OpenClaw API token |
-| `OPENCLAW_AGENT_ID` | Agent ID to use (default: `green-plaza`) |
+| `OPENCLAW_AGENT_ID` | Agent ID to use (default: `my-agent`) |
 | `TELEGRAM_BOT_TOKEN` | Telegram bot token for admin notifications |
 | `TELEGRAM_ADMIN_ID` | Telegram chat ID to notify |
 
